@@ -1,9 +1,9 @@
 # Rscript
-Volcano plot for differentiatial expression
+Volcano plot for differential expression
 ![image](https://github.com/Aceculuses/Rscript/blob/images/differExpr_6480.png)
 
 
 
 
-heatmap
+Heatmap
 ![image](https://github.com/Aceculuses/Rscript/blob/images/angiogenesis.png)
